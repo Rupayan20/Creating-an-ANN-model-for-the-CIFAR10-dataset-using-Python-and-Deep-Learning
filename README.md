@@ -1,2 +1,15 @@
-# Creating-an-ANN-model-for-the-CIFAR10-dataset-using-Python-and-Deep-Learning
-In DevTown bootcamp on Python and Deep Learning along with a project of creating a Deep Learning model using CIFAR 10 dataset
+<h1 align ='center'>DevTown</h1>
+
+---
+
+<h1 align ='center'>Project done with Devtown</h1>
+
+<br>
+
+---
+## I have used ANN to make a 94.73% Accurate MNIST model to identify the Handwritten digit. 
+I have used the following:
+* Matplotlib
+* Tensorflow
+* keras
+* Numpy
